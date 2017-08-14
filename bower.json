@@ -1,0 +1,20 @@
+{
+  "name": "recipe-box",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mick Sexton <lacrookedbeat@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
